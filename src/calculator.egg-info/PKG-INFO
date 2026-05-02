@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: calculator
+Version: 0.1.0
+Summary: A simple python package example
+Author-email: Remi <remiarata1@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/example-package
+Project-URL: Documentation, https://github.com/yourusername/example-package#readme
+Project-URL: Source, https://github.com/yourusername/example-package
+Project-URL: Issues, https://github.com/yourusername/example-package/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: black>=24.0; extra == "dev"
+Requires-Dist: ruff>=0.3; extra == "dev"
+
+# calcPkg
+calculator package using a toml file
+
+
+LINK: www.youtube.com/watch?v=m2EAQk4Qlew
+
